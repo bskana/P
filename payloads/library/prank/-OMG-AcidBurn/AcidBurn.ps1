@@ -554,7 +554,7 @@ echo "Email Done"
 	This function will run all the previous functions and assign their outputs to variables
 #>
 
-$intro = "$fullName , it has been a long time my friend"
+$intro = "$fullName , Sain uu amidral her baina daa?"
 
 $RAMwarn = Get-RAM  
 
